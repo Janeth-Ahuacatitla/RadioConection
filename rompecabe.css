@@ -34,7 +34,7 @@ body {
   }
   
   .col-60 {
-    background: #eed121;
+    background: #dfdfdf;
   
   }
   
@@ -57,7 +57,7 @@ body {
   }
   /* Acá empiezo yo*/
   #juego{
-    background:#eed121;
+    background:#dfdfdf;
     width: 600px;
     height: 600px;
     margin-top: 1px;

@@ -1,5 +1,5 @@
 // Arreglo que contiene las intrucciones del juego 
-var instrucciones = ["Deberá mover las piezas del puzzle con los botones de direccion del teclado para ordenar el rompecabezas", "Puede usar la imagen de la seccion 'Objetivo' como guía"];
+var instrucciones = ["Deberá mover las piezas del rompecabezas con los botones de direccion del teclado para ordenar el rompecabezas", "Puede usar la imagen de la seccion 'Objetivo' como guía"];
 // Arreglo para ir guardando los movimientos que se vayan realizando
 var movimientos = [];
 
